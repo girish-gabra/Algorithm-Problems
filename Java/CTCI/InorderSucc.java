@@ -1,4 +1,4 @@
-/* CTCI 4.6 Algorithm to find inorder successor for a binary search tree */
+/* CTCI 4.6 Algorithm to find inorder successor for a binary search tree*/
 package CTCI;
 class TreeNode
 {
