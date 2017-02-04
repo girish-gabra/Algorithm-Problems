@@ -43,7 +43,7 @@ def printILS(str1,str2,m,n):
 	printILSRecur(str1,str2,iStr,m,n,0)		# recursive function to print interleaving strings
 
 
-str1="AB"
+str1="ABC"
 str2="CD"
 
 printILS(str1,str2,len(str1),len(str2))
